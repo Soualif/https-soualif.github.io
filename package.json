@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "description": "CV de Mika ANDRIANARIJAONA",
+  "description": "CV Samir Oualif",
   "main": "resume.json",
   "scripts": {
     "test": "./node_modules/.bin/resume test",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mikaoelitiana/resume.git"
+    "url": "git+https://github.com/soualif/resume.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mikaoelitiana/resume/issues"
+    "url": "https://github.com/soualif/resume/issues"
   },
-  "homepage": "https://github.com/mikaoelitiana/resume#readme",
+  "homepage": "https://github.com/soualif/resume#readme",
   "dependencies": {
     "jsonresume-theme-kwan": "0.0.2",
     "resume-cli": "^0.4.19"
